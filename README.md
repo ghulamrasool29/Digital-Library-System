@@ -60,7 +60,8 @@ py digital_library_gui.py
 
 ## 📸 Screenshots
 
-(Add screenshots here after running the application.)
+<img width="1000" height="669" alt="image" src="https://github.com/user-attachments/assets/bda2b346-6e8b-494d-ae7d-ac99113ea8e2" />
+
 
 ---
 
